@@ -1,8 +1,8 @@
 ---
 layout: post
-title: tumblr m94djyGEvw1qf6bk2
+title: This dog stole a slice of pizza
 image: tumblr_m94djyGEvw1qf6bk2.gif
-credit_name: null 
+credit_name: null
 credit_url: null
 ---
 

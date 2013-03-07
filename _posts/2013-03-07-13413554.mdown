@@ -1,6 +1,0 @@
----
-layout: post
-title: 13413554
-image: 13413554.gif
----
-

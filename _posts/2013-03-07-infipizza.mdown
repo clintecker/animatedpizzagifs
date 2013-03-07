@@ -1,8 +1,0 @@
----
-layout: post
-title: infipizza
-image: infipizza.gif
-credit_name: null 
-credit_url: null
----
-

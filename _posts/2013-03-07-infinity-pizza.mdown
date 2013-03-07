@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pizza Boppin'
-image: bopping.gif
+title: Infinity Pizza
+image: infipizza.gif
 credit_name: Ross Paffett
 credit_url: http://rosspaffett.com
 ---
