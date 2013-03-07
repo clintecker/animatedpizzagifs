@@ -1,0 +1,8 @@
+---
+layout: post
+title: bopping
+image: bopping.gif
+credit_name: 
+credit_url:
+---
+

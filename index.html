@@ -16,14 +16,14 @@ title: THEY'RE DELICIOUS!
         </div>
         {% endif %}
         <div class="credit">
-        {% if post.credit_name and post.credit_url %}
+        {% if post.credit_name != null and post.credit_url != null %}
             <strong>Credit:</strong> <a href="{{ post.credit_url }}">{{ post.credit_name }}</a>
-        {% elsif post.credit_name and not post.credit_url %}
+        {% elsif post.credit_name and post.credit_url == null %}
             <strong>Credit:</strong> {{ post.credit_name }}
-        {% elsif not post.credit_name and post.credit_url %}
+        {% elsif post.credit_name == null and post.credit_url == null %}
             <strong>Credit:</strong> <a href="{{ post.credit_url }}">{{ post.credit_url }}</a>
         {% else %}
-            <strong>Credit:</strong> We don't know ;(
+            <strong>Do you know who made this GIF? Let me know, email link is at the bottom of this page!</strong>
         {% endif %}
         </div>
     </li>

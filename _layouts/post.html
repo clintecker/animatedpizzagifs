@@ -13,11 +13,11 @@ layout: default
     </div>
     {% endif %}
     <div class="credit">
-    {% if page.credit_name and page.credit_url %}
+    {% if page.credit_name != null and page.credit_url != null %}
         <strong>Credit:</strong> <a href="{{ page.credit_url }}">{{ page.credit_name }}</a>
-    {% elsif page.credit_name and not page.credit_url %}
+    {% elsif page.credit_name and page.credit_url == null %}
         <strong>Credit:</strong> {{ page.credit_name }}
-    {% elsif not page.credit_name and page.credit_url %}
+    {% elsif page.credit_name == null and page.credit_url == null %}
         <strong>Credit:</strong> <a href="{{ page.credit_url }}">{{ page.credit_url }}</a>
     {% else %}
         <strong>Do you know who made this GIF? Let me know, email link is at the bottom of this page!</strong>

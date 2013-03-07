@@ -1,0 +1,8 @@
+---
+layout: post
+title: pizza-the-hut
+image: pizza-the-hut.gif
+credit_name: 
+credit_url:
+---
+

@@ -1,0 +1,8 @@
+---
+layout: post
+title: d3pizza
+image: d3pizza.gif
+credit_name: 
+credit_url:
+---
+

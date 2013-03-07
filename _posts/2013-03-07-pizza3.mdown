@@ -1,0 +1,8 @@
+---
+layout: post
+title: pizza3
+image: pizza3.gif
+credit_name: 
+credit_url:
+---
+

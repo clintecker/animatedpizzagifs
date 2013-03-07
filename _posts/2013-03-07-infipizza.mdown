@@ -1,0 +1,8 @@
+---
+layout: post
+title: infipizza
+image: infipizza.gif
+credit_name: 
+credit_url:
+---
+
