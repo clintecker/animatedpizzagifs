@@ -1,8 +1,8 @@
 ---
 layout: post
-title: pizzzatime.tumblr
+title: Aliens love pizza too
 image: pizzzatime.tumblr.gif
-credit_name: null 
+credit_name: null
 credit_url: null
 ---
 

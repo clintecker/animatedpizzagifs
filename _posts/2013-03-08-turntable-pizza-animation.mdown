@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Turntable pizza animation
+title: Turntable Pizza
 image: Turntable_pizza_animation.gif
-credit_name: null 
+credit_name: null
 credit_url: null
 ---
 
