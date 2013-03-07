@@ -1,8 +1,8 @@
 ---
 layout: post
-title: heart-pizza
+title: Pizza Heart
 image: heart-pizza.gif
-credit_name: null 
+credit_name: null
 credit_url: null
 ---
 

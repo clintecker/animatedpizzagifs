@@ -377,3 +377,5 @@ li.post {
 }
 
 ul.pages li { display: inline; }
+div.credit { margin-top: 15px; margin-bottom: 15px; }
+div.fb-comments { margin-top: 15px; }
