@@ -1,0 +1,7 @@
+---
+layout: post
+title: A pizza made with the D3 Javascript library
+image: d3pizza.gif
+credit_name: Paul Smith
+credit_url: http://bl.ocks.org/4346286
+---

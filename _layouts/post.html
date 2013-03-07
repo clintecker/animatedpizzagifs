@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="post single">
+    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <div class="gif">
+        <img src='images/{{ page.image }}' alt='{{ page.title }}' />
+    </div>
+    {% if content %}
+    <div class="content">
+        {{ content }}
+    </div>
+    {% endif %}
+    <div class="credit">
+    {% if page.credit_name and page.credit_url %}
+        <strong>Credit:</strong> <a href="{{ page.credit_url }}">{{ page.credit_name }}</a>
+    {% elsif page.credit_name and not page.credit_url %}
+        <strong>Credit:</strong> {{ page.credit_name }}
+    {% elsif not page.credit_name and page.credit_url %}
+        <strong>Credit:</strong> <a href="{{ page.credit_url }}">{{ page.credit_url }}</a>
+    {% else %}
+        <strong>Do you know who made this GIF? Let me know, email link is at the bottom of this page!</strong>
+    {% endif %}
+    </div>
+</div>
