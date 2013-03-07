@@ -1,8 +1,8 @@
 ---
 layout: post
-title: thanks-to-http-subzerofun-tumblr-com
+title: This husky dog has pizzas for eyes
 image: thanks-to-http-subzerofun-tumblr-com.gif
-credit_name: null 
-credit_url: null
+credit_name: SubZeroFun
+credit_url: http://subzerofun.tumblr.com
 ---
 

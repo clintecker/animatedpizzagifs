@@ -1,8 +1,8 @@
 ---
 layout: post
-title: pizza-the-hut
+title: Pizza the Hut is disgusting.
 image: pizza-the-hut.gif
-credit_name: null 
+credit_name: null
 credit_url: null
 ---
 
