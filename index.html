@@ -32,21 +32,21 @@ title: THEY'RE DELICIOUS!
 
 {% if paginator.total_pages > 1 %}
 <div id="post-pagination" class="pagination">
+  <ul class="pages">
   {% if paginator.previous_page %}
-  <p class="previous">
+  <li class="page previous">
     {% if paginator.previous_page == 1 %}
     <a href="/">Previous</a>
     {% else %}
     <a href="/page{{paginator.previous_page}}">Previous</a>
     {% endif %}
-  </p>
+  </li>
   {% else %}
-  <p class="previous disabled">
+  <li class="page previous disabled">
     <span>Previous</span>
-  </p>
+  </li>
   {% endif %}
 
-  <ul class="pages">
     <li class="page">
       {% if paginator.page == 1 %}
       <span class="current-page">1</span>
@@ -64,17 +64,17 @@ title: THEY'RE DELICIOUS!
       {% endif %}
     </li>
     {% endfor %}
-  </ul>
 
   {% if paginator.next_page %}
-  <p class="next">
+  <li class="page next">
     <a href="/page{{paginator.next_page}}">Next</a>
-  </p>
+  </li>
   {% else %}
-  <p class="next disabled">
+  <li class="page next disabled">
     <span>Next</span>
-  </p>
+  </li>
   {% endif %}
+  </ul>
 </div>
 {% endif %}
 
