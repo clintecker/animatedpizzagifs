@@ -5,3 +5,5 @@ image: d3pizza.gif
 credit_name: Paul Smith
 credit_url: http://bl.ocks.org/4346286
 ---
+
+My good friend Paul Smith made this Pizza programatically!
