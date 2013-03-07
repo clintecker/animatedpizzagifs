@@ -14,7 +14,7 @@ lsi:         false
 pygments:    false
 markdown:    maruku
 permalink:   date
-paginate:    5
+paginate:    15
 
 maruku:
   use_tex:    false
