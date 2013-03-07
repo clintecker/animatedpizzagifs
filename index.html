@@ -16,14 +16,14 @@ title: THEY'RE DELICIOUS!
         </div>
         {% endif %}
         <div class="credit">
-        {% if post.credit_name != "null" and post.credit_url != "null" %}
+        {% if post.credit_name != null and post.credit_url != null %}
             <strong>Credit:</strong> <a href="{{ post.credit_url }}">{{ post.credit_name }}</a>
-        {% elsif post.credit_name and post.credit_url == "null" %}
+        {% elsif post.credit_name and post.credit_url == null %}
             <strong>Credit:</strong> {{ post.credit_name }}
-        {% elsif post.credit_name == "null" and post.credit_url == "null" %}
+        {% elsif post.credit_name == null and post.credit_url != null %}
             <strong>Credit:</strong> <a href="{{ post.credit_url }}">{{ post.credit_url }}</a>
         {% else %}
-            <strong>Do you know who made this GIF? Let me know, email link is at the bottom of this page!</strong>
+            <strong>Credit:</strong> No idea, <a href="mailto:me@clintecker.com?subject=credit+this+gif+you+jerk">email me!</a>
         {% endif %}
         </div>
     </li>
