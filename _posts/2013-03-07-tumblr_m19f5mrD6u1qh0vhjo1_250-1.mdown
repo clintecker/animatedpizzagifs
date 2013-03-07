@@ -2,7 +2,7 @@
 layout: post
 title: tumblr m19f5mrD6u1qh0vhjo1 250-1
 image: tumblr_m19f5mrD6u1qh0vhjo1_250-1.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

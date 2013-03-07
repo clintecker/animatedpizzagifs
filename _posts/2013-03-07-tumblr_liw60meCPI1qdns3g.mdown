@@ -2,7 +2,7 @@
 layout: post
 title: tumblr liw60meCPI1qdns3g
 image: tumblr_liw60meCPI1qdns3g.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

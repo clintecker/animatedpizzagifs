@@ -2,7 +2,7 @@
 layout: post
 title: jOMmTk1321859920
 image: jOMmTk1321859920.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

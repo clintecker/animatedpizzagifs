@@ -2,7 +2,7 @@
 layout: post
 title: 13413554
 image: 13413554.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

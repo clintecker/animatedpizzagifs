@@ -2,7 +2,7 @@
 layout: post
 title: tumblr lrz62uwDDE1qdmv0so1 500
 image: tumblr_lrz62uwDDE1qdmv0so1_500.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

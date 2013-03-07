@@ -2,7 +2,7 @@
 layout: post
 title: tumblr m94djyGEvw1qf6bk2
 image: tumblr_m94djyGEvw1qf6bk2.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

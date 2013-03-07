@@ -2,7 +2,7 @@
 layout: post
 title: pizzzatime.tumblr
 image: pizzzatime.tumblr.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

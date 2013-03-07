@@ -2,7 +2,7 @@
 layout: post
 title: tumblr lz1hnhg4uZ1qfcn26o1 250
 image: tumblr_lz1hnhg4uZ1qfcn26o1_250.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

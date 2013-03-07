@@ -2,7 +2,7 @@
 layout: post
 title: tumblr m7a4hwe4O91qaurswo1 500
 image: tumblr_m7a4hwe4O91qaurswo1_500.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

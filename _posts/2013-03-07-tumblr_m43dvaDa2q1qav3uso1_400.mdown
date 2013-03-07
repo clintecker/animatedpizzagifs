@@ -2,7 +2,7 @@
 layout: post
 title: tumblr m43dvaDa2q1qav3uso1 400
 image: tumblr_m43dvaDa2q1qav3uso1_400.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

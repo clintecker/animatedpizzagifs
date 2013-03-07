@@ -2,7 +2,7 @@
 layout: post
 title: opd5io
 image: opd5io.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

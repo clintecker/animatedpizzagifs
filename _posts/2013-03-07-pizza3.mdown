@@ -2,7 +2,7 @@
 layout: post
 title: pizza3
 image: pizza3.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

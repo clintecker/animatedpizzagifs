@@ -2,7 +2,7 @@
 layout: post
 title: tumblr ltaje3Atoi1qgwqw9o1 500
 image: tumblr_ltaje3Atoi1qgwqw9o1_500.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 

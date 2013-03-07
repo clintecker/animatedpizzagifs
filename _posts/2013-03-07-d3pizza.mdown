@@ -2,7 +2,7 @@
 layout: post
 title: d3pizza
 image: d3pizza.gif
-credit_name: 
-credit_url:
+credit_name: null 
+credit_url: null
 ---
 
