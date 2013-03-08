@@ -1,0 +1,9 @@
+---
+layout: post
+title: Samurai Pizza Cats
+image: samurai-pizza-cats.gif
+credit_name: Lee Aylward
+credit_url: http://www.youtube.com/watch?v=bXiJYcK4-GU
+---
+
+Who do you call when you want some pepperoni?
