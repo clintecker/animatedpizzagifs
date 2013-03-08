@@ -1,8 +1,0 @@
----
-layout: post
-title: anigif enhanced-buzz-28842-1334036712-9
-image: anigif_enhanced-buzz-28842-1334036712-9.gif
-credit_name: null 
-credit_url: null
----
-
