@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#
+                  blog: http://ogp.me/ns/blog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
@@ -8,6 +9,15 @@
     <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
     <meta property="fb:admins" content="13703630" />
+
+    <meta property="og:type"                 content="blog">
+    <meta property="og:url"                  content="http://animatedpizzagifs{{ page.url }}">
+    {% if page.image %}
+    <meta property="og:image"                content="http://animatedpizzagifs/images/{{ page.image }}">
+    {% endif %}
+    <meta property="og:title"                content="{{ page.title }}">
+    <meta property="og:description"          content="The world's most complete repository of Animated Pizza Gifs">
+    </head>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
