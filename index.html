@@ -10,6 +10,7 @@ title: THEY'RE DELICIOUS!
         <div class="gif">
             <a href="{{ post.url }}"><img src='/images/{{ post.image }}' alt='{{ post.title }}' /></a>
         </div>
+        <div class="fb-like" data-href="http://animatedpizzagifs.com{{ post.url}}" data-send="true" data-width="620" data-show-faces="false" data-font="arial"></div>
         {% if post.content %}
         <div class="content">
             {{ post.content }}
