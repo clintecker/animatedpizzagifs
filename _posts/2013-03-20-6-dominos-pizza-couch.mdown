@@ -1,0 +1,7 @@
+---
+layout: post
+title: Dominos Couch
+image: dominos-pizza-couch.gif
+credit_name: ExtraCrispy
+credit_url: http://extracrispy.tumblr.com/
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Check this beautiful pizza montage
+image: pizza-montage-on-the-beach.gif
+credit_name: pizza time
+credit_url: http://pizzzatime.tumblr.com/
+---

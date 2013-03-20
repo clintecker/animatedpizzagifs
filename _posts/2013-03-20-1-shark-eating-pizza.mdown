@@ -1,0 +1,8 @@
+---
+layout: post
+title: A shark who loves pizza
+image: shark-eating-pizza.gif
+credit_name: H. Caldwell Tanner
+credit_url: http://loldwell.com/
+---
+

@@ -1,0 +1,8 @@
+---
+layout: post
+title: High on love of pizza
+image: psycadelic-pizza-love.gif
+credit_name: spacecadet
+credit_url: http://spacecadet.tumblr.com/post/36793336240
+---
+

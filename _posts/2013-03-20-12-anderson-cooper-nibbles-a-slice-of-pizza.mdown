@@ -1,0 +1,9 @@
+---
+layout: post
+title: Nibble that pizza, Anderson
+image: anderson-cooper-nibbles-a-pizza-slice.gif
+credit_name: spacecadet
+credit_url: http://spacecadet.tumblr.com/post/36674973681/breaking-news-pizza-invading-my-mouth-as-we
+---
+
+

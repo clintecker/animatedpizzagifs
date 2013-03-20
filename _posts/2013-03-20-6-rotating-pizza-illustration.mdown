@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rotating Illustrated Pizza Slice
+image: rotating-illustrated-pizza-slice.gif
+credit_name: Mitchell Vizensky
+credit_url: http://mitchellv.me/post/44189435072/pizza-power
+---

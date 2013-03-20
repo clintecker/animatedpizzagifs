@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bubblin Pizza Time Lapse
+image: bubblin-pizza-time-lapse.gif
+credit_name: yaydrienne
+credit_url: http://yaydrienne.tumblr.com/
+---

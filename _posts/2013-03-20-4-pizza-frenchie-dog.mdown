@@ -1,0 +1,7 @@
+---
+layout: post
+title: This frenchie dog is literally made of pizza
+image: pizza-frenchie-dog.gif
+credit_name: PizzaSkin
+credit_url: http://pizzaskin.tumblr.com/post/39009240850/pizza-dog
+---
