@@ -1,0 +1,8 @@
+---
+layout: post
+title: 360 Degrees of Pizza
+image: 360_degrees_of_pizza.gif
+credit_name: extraterrestrialdad.tumblr.com
+credit_url: http://extraterrestrialdad.tumblr.com/post/30919321662
+---
+
