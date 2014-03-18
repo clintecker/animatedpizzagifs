@@ -1,0 +1,7 @@
+---
+layout: post
+title: Even Kittens Love Pizza
+image: kitten_pizza.gif
+---
+
+Submitted by Bryce Kerley
